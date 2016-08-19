@@ -1,8 +1,8 @@
 <?php
-  $dbhost  = 'localhost';
-  $dbname  = 'suicidesquad';
-  $dbuser  = 'mykel';
-  $dbpass  = 'trinity';
+  $dbhost  = 'ec2-23-23-199-72.compute-1.amazonaws.com';
+  $dbname  = 'd3flf18hfqnkqf';
+  $dbuser  = 'jkjnwswcdxqmnj';
+  $dbpass  = 'k1d1FPIXR5MQbH12yRAOTuYmRR';
   $appname = "Suicide Squad!";
 
   $connection = new mysqli($dbhost, $dbuser, $dbpass, $dbname);
