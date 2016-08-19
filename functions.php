@@ -1,5 +1,5 @@
 <?php
-  $dbhost  = 'ec2-23-23-199-72.compute-1.amazonaws.com';
+  $dbhost  = 'ec2-23-23-199-72.compute-1.amazonaws.com:5432';
   $dbname  = 'd3flf18hfqnkqf';
   $dbuser  = 'jkjnwswcdxqmnj';
   $dbpass  = 'k1d1FPIXR5MQbH12yRAOTuYmRR';
